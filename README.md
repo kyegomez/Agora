@@ -67,4 +67,19 @@ Contact Kye at kye@apac.ai if you are potentially interested in investing.
 
 
 
-# Share Agora's Presentation
+# Share Agora Investor Presentation!
+
+Investors, potential partners, and interested parties all stand to benefit from Agora's insightful and comprehensive investor presentation. We've worked hard to demonstrate the value, potential, and direction of our project, and we'd love for you to share it!
+
+Use the links below to share the Agora Investor Presentation on your favorite social media platforms:
+
+- **Share on Twitter:** [Click to Tweet about Agora](https://twitter.com/intent/tweet?text=Check%20out%20Agora%27s%20Investor%20Presentation%20on%20GitHub.%20Discover%20the%20value%2C%20potential%2C%20and%20direction%20of%20their%20project.%20%0D%0A%0D%0Ahttps%3A%2F%2Fgithub.com%2Fkyegomez%2FAgora&hashtags=InvestorPresentation,OpenSource)
+
+- **Share on LinkedIn:** [Share Agora on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fkyegomez%2FAgora)
+
+- **Share on Facebook:** [Share Agora on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fkyegomez%2FAgora)
+
+Thank you for your support and for sharing Agora with your network!
+
+## Note:
+We encourage you to personalize the pre-filled messages with your own experiences or thoughts about the Agora Investor Presentation. It'll make the sharing all the more impactful!
