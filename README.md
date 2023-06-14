@@ -16,6 +16,7 @@ Welcome to Agora, where we're advancing humanity with open source multi-modal AI
 ### Method2
 Download the presentation pdf
 
+[Agora investor presentation](agora-deck-compressed.pdf)
 
 
 # Key problems we're solving
@@ -41,7 +42,7 @@ Agora is built on the belief that the strength of a network lies in the number o
 
 * Collaborate: Work with enterprises and individuals to solve their most pressing obstacles.
 
-* Optimize, Fine-tune, and Deploy: Transform experimental research into seamless and delightful experiences that customers love.
+* Optimize, Fine-tune, and Deploy then Iterate quickly: Transform experimental research into seamless and delightful experiences that customers love.
 
 
 # Active Projects:
