@@ -59,13 +59,6 @@ We have 30+ active projects, with the most potentially impactful ones listed bel
 
 Join us on our journey to create cutting-edge multi-modality foundation models that unlock AI's true potential and transform the world economy. Explore our open source investor presentation and learn more about Agora's groundbreaking projects and vision for the future of AI.
 
-# Funding
-
-We're currently seeking to raise 100m$ at a 1billion$ valuation.
-
-Contact Kye at kye@apac.ai if you are potentially interested in investing.
-
-
 
 # Share Agora Investor Presentation!
 
